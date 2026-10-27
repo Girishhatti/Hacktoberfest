@@ -1,0 +1,6 @@
+{
+  "name": "Gemma — AI Code Exorcist",
+  "description": "AI-powered code debugging and exorcism engine. Detect hauntings, banish bugs, and resurrect clean code with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
